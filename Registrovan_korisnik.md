@@ -8,7 +8,7 @@ Naziv slučaja upotrebe   | Prijava na sistem
 **Koraci (osnovni tok)** | <ol> <li> Registrovani korisnik započinje proces prijave na sistem klikom na dugme "prijavi se". <li> Sistem generiše i prikazuje formu za prijavu.  <li> Registrovani korisnik unosi korisničko ime. <li> Registrovani korisnik unosi lozinku. <li> Sistem provjerava validnost unesenih kredencijala. <li> Sistem dodjeljuje dozvoljene privilegije registrovanom korisniku.
 **Alternative** | 5.a Sistem obavještava korisnika o neuspješnoj prijavi i zahtijeva ponovno unošenje kredencijala.  
 
-Prijava na sistem: 
+
 ![alt text](https://github.com/BrankaStankovic/ISZ/blob/master/prijava.jpg "Prijava")
 
 Naziv slučaja upotrebe   | Odjava sa sistema 
@@ -21,7 +21,7 @@ Naziv slučaja upotrebe   | Odjava sa sistema
 **Koraci (osnovni tok)** | <ol> <li> Prijavljeni korisnik započinje proces odjave sa sistema klikom na dugme "odjavi se". <li> Sistem generiše formu za odjavu i prikazuje je registrovanom korisniku. <li> Korisnik potvrđuje odjavu sa sistema. <li> Sistem odjavljuje korisnika sa sistema. 
 **Alternative** | 3.a Korisnik odustaje od odjave sa sistema.
 
-Odjava sa sistema: 
+
 ![alt text](https://github.com/BrankaStankovic/ISZ/blob/master/odjava.jpg "Odjava")
 
 Naziv slučaja upotrebe   | Rezervacija karte 
